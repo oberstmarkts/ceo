@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: fantasy;
+  font-family: 'Nanum Brush Script', cursive;
+}
+
+h1 {
+  font-size: 5.625rem; /*16px=100%=1em=1M*/
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h4 {}
+
+img {}
+
+table {}
+
+/**********ClASS SELECTORS************/
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.korean_flag {
+  width: 50%;
+}
+
+.top-cloud {
+  width: 20%;
+  position: absolute;
+  right: 20%;
+}
+
+.bottom-cloud {
+  width: 20%;
+  position: absolute;
+  left: 20%;
+}
+
+/***********ID SELECTORS************/
+/*#*/
