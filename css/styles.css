@@ -6,7 +6,8 @@ body {
 }
 
 h1 {
-  font-size: 5.625rem; /*16px=100%=1em=1M*/
+  font-size: 5.625rem;
+  /*16px=100%=1em=1M*/
   font-family: 'Dancing Script', cursive;
 }
 
@@ -34,9 +35,9 @@ table {}
 
 .bottom-container {}
 
-.skill-row{
+.skill-row {
   width: 50%;
-  margin:100px auto 100px auto;
+  margin: 100px auto 100px auto;
   /*text-align: left;
   line-hight: 2;*/
 }
@@ -57,26 +58,33 @@ table {}
   left: 20%;
 }
 
-.Korean{
-  width: 15%;
+.Korean {
+  width: 25%;
 }
-.English{
-  width: 15%;
+
+.English {
+  width: 25%;
 }
-.Chinese{
-  width: 15%;
+
+.Chinese {
+  width: 25%;
 }
-.web-design{
-  width: 15%;
+
+.web-design {
+  width: 25%;
 }
-.app-design{
-  width: 15%;
+
+.app-design {
+  width: 25%;
 }
-.R-programming{
-  width: 15%;
+
+.R-programming {
+  width: 25%;
 }
-.Python-programming{
-  width: 15%;
+
+.Python-programming {
+  width: 25%;
 }
+
 /***********ID SELECTORS************/
 /*#*/
