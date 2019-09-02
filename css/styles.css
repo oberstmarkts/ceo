@@ -34,6 +34,13 @@ table {}
 
 .bottom-container {}
 
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  /*text-align: left;
+  line-hight: 2;*/
+}
+
 .korean_flag {
   width: 50%;
 }
@@ -51,25 +58,25 @@ table {}
 }
 
 .Korean{
-  width: 5%;
+  width: 15%;
 }
 .English{
-  width: 5%;
+  width: 15%;
 }
 .Chinese{
-  width: 5%;
+  width: 15%;
 }
 .web-design{
-  width: 5%;
+  width: 15%;
 }
 .app-design{
-  width: 5%;
+  width: 15%;
 }
 .R-programming{
-  width: 5%;
+  width: 15%;
 }
 .Python-programming{
-  width: 5%;
+  width: 15%;
 }
 /***********ID SELECTORS************/
 /*#*/
