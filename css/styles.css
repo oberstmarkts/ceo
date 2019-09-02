@@ -72,6 +72,12 @@ a:hover{
   width: 40%;
   margin: 40px auto 60px;
 }
+.copyright {
+  color:#222831;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
+}
 
 .skill-row {
   width: 50%;
