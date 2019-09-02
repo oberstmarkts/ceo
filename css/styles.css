@@ -50,5 +50,26 @@ table {}
   left: 20%;
 }
 
+.Korean{
+  width: 5%;
+}
+.English{
+  width: 5%;
+}
+.Chinese{
+  width: 5%;
+}
+.web-design{
+  width: 5%;
+}
+.app-design{
+  width: 5%;
+}
+.R-programming{
+  width: 5%;
+}
+.Python-programming{
+  width: 5%;
+}
 /***********ID SELECTORS************/
 /*#*/
