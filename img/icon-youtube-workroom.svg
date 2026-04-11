@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="YouTube Shared Workroom">
+  <defs>
+    <linearGradient id="ytB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f3f7ff"/>
+      <stop offset="100%" stop-color="#e1ebff"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="18" fill="url(#ytB)" stroke="#bfcaee"/>
+  <rect x="14" y="18" width="36" height="22" rx="9" fill="#5275c8"/>
+  <path d="M28 24.8 39 29l-11 4.2Z" fill="#fff"/>
+  <rect x="16" y="44" width="8" height="6" rx="2" fill="#8ba0db"/>
+  <rect x="28" y="44" width="8" height="6" rx="2" fill="#8ba0db"/>
+  <rect x="40" y="44" width="8" height="6" rx="2" fill="#8ba0db"/>
+</svg>
