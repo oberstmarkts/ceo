@@ -1,28 +1,18 @@
-# Renewal Summary
+# CHANGELOG
 
-## Positioning shift
+## Design Refresh v2
 
-From: simple personal introduction page focused on programmer identity and early milestones.
+### What changed
+- Reworked the visual direction to preserve the original airy, personal mood.
+- Brought back a softer sky-toned atmosphere with cloud motifs and handwritten accents.
+- Upgraded the interface into a polished founder portfolio with layered cards, refined typography, and stronger visual hierarchy.
+- Kept the updated business content, operating philosophy, and founder profile from the previous renewal.
 
-To: founder portfolio focused on
-- venture building
-- operating discipline
-- finance and reporting logic
-- AI-enabled workflow design
-- evidence-first execution philosophy
+### Design intent
+This version intentionally moves away from a generic dark startup template.
+It keeps the emotional memory of the original site—lightness, warmth, optimism, and personal tone—while making it feel more premium, mature, and presentable.
 
-## Content additions
-
-- Founder / operator profile aligned with current business identity
-- Five venture tracks reflected in structured cards
-- Operating philosophy and control-loop language added
-- Timeline extended from early academic / military path to current AI and startup focus
-- Additional credibility block for ecosystem / funding / procurement signals
-- Cleaner contact structure with fewer stale links
-
-## Design updates
-
-- Full visual refresh using a modern dark theme
-- Responsive navigation and sectioned information hierarchy
-- Card-based layout, better spacing, and stronger typography
-- Removed legacy decorative cloud/flag motif and outdated brush-script styling
+### Files
+- `index.html`
+- `css/styles.css`
+- `img/favicon.svg`
