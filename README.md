@@ -7,3 +7,4 @@ Pages:
 - `es.html` — Spanish
 
 Language switching is available in the header on each page.
+
