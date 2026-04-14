@@ -1,0 +1,40 @@
+--- a/index.html
++++ b/index.html
+@@
+-      <div class="footer-inner">
+-        <p>© 2026 Jongwoo Kim · Founder portfolio</p>
+-        <p>Refined edition with non-overlapping hero layout, system section, and restored secondary footer links.</p>
+-      </div>
++      <div class="footer-inner">
++        <p>© 2026 Jongwoo Kim</p>
++      </div>
+--- a/ko.html
++++ b/ko.html
+@@
+-      <div class="footer-inner">
+-        <p>© 2026 김종우 · 포트폴리오</p>
+-        <p>플로팅 배너를 제거하고, 시스템 섹션과 보조푸터 링크를 포함해 다시 정리한 버전입니다.</p>
+-      </div>
++      <div class="footer-inner">
++        <p>© 2026 김종우</p>
++      </div>
+--- a/zh.html
++++ b/zh.html
+@@
+-      <div class="footer-inner">
+-        <p>© 2026 金钟宇 · 作品集</p>
+-        <p>移除了浮动横幅，并加入系统版块与辅助页脚链接的精修版本。</p>
+-      </div>
++      <div class="footer-inner">
++        <p>© 2026 金钟宇</p>
++      </div>
+--- a/es.html
++++ b/es.html
+@@
+-      <div class="footer-inner">
+-        <p>© 2026 Jongwoo Kim · Portafolio</p>
+-        <p>Edición refinada con hero sin solapamientos, sección de sistema y enlaces secundarios restaurados.</p>
+-      </div>
++      <div class="footer-inner">
++        <p>© 2026 Jongwoo Kim</p>
++      </div>
